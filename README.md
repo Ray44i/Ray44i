@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Rabii 👋
 
-<!--
-**Ray44i/Ray44i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at Istanbul Topkapi University
 
-Here are some ideas to get you started:
+📱 Flutter Developer  
+🌐 Django Backend Developer  
+🗄️ Database Enthusiast  
+🎨 UI/UX Designer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies
+
+- Flutter & Dart
+- Python & Django
+- SQLite & SQL
+- Git & GitHub
+- HTML, CSS, JavaScript
+- UI/UX Design
+
+## 📌 Featured Projects
+
+### 🚗 ParkLift
+Smart Parking Elevator Simulation and Monitoring System built with Flutter, Provider state management, and SQLite integration.
+
+### 🍽️ ReLoop
+Food Rescue Marketplace mobile application built with Flutter and SQLite.
+
+### 🗄️ DataNest
+Dynamic Data Repository System built with Django, SQLite, role-based access control, and dynamic dataset management.
+
+## 📫 Contact Me
+
+- LinkedIn: www.linkedin.com/in/rabi-madrk-a098a23717
+- Email: rabiisen6@gmail.com
