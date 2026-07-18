@@ -1,22 +1,83 @@
-# Hi, I'm Rabea Madrk 👋
-
-🎓 Computer Engineering Student at Istanbul Topkapi University (Graduating July 2027)
-
-💻 Backend Software Engineer focused on building cloud-native applications and integrating AI into real-world software solutions.
-
-I enjoy designing scalable backend systems, secure REST APIs, cloud architectures, and intelligent applications that solve real business problems.
-
----
-
-## 🚀 Current Focus
-
-🔨 Building **Nexus AI** – An Enterprise Knowledge & Collaboration Platform powered by AI.
-
-Currently learning and applying:
-
-- Cloud-Native Development
-- System Design
-- Docker & Containerization
+Hi, I'm Rabea Madrk 👋
+🎓 Computer Engineering Student at Istanbul Topkapi University (Expected Graduation: July 2027)
+💻 Aspiring Backend Software Engineer passionate about building reliable backend applications and solving real-world problems through software.
+I'm currently developing my skills in Java backend development while expanding my knowledge of modern software engineering practices. My goal is to become a backend engineer specializing in scalable applications and cloud technologies.
+🚀 Current Focus
+Learning Java Backend Development
+Improving Spring Boot skills
+Building RESTful web applications
+Database Design with PostgreSQL & MySQL
+Writing clean, maintainable code
+Preparing for a Backend Software Engineering Internship
+💼 Technical Skills
+Programming Languages
+Java
+Python
+Dart
+JavaScript
+SQL
+Backend
+Spring Boot (Beginner)
+Spring Security (Basic Knowledge)
+Django
+REST APIs (Learning)
+Databases
+PostgreSQL
+MySQL
+SQLite
+Frontend & Mobile
+Flutter
+React
+HTML
+CSS
+Tools
+Git
+GitHub
+IntelliJ IDEA
+VS Code
+⭐ Featured Projects
+🧠 Nexus AI (Currently Developing)
+An enterprise knowledge and collaboration platform that I'm building to improve my backend engineering skills.
+Goals
+Learn Spring Boot
+Practice authentication and authorization
+Design scalable database structures
+Build secure REST APIs
+Explore AI integration in the future
+🗄️ DataNest
+A dynamic data repository system built with Django.
+Features
+User authentication
+Role-based access control
+Dataset management
+Dynamic field creation
+Tech Stack
+Python
+Django
+SQLite
+🚗 ParkLift
+Smart parking elevator simulation.
+Tech Stack
+Flutter
+Provider
+SQLite
+🍽️ ReLoop
+Food rescue marketplace mobile application.
+Tech Stack
+Flutter
+SQLite
+🎯 Current Learning Goals
+Become proficient in Spring Boot
+Learn Spring Security
+Build secure REST APIs
+Improve SQL and PostgreSQL skills
+Learn Docker
+Learn Microsoft Azure
+Learn System Design
+Learn CI/CD
+Learn AI application development
+📫 Looking For
+I'm currently seeking Backend Software Engineering Internship opportunities where I can apply my skills, learn from experienced engineers, and contribute to real-world software projects.- Docker & Containerization
 - Azure Cloud
 - AI Integration (RAG & LLMs)
 - Clean Architecture
