@@ -1,212 +1,86 @@
+Hi, I'm Rabea Madrk 
 
+ Computer Engineering student expected to graduate in 2027.
 
-Hi, I'm Rabea Madrk 👋
+ Interested in backend development and building practical applications with a focus on APIs, authentication, databases, and application logic.
 
-🎓 Computer Engineering Student at Istanbul Topkapi University (Expected Graduation: July 2027)
+ Tech Stack
 
-💻 Aspiring Backend Software Engineer passionate about building reliable backend applications and solving real-world problems through software.
+Languages
 
-I'm currently developing my skills in Java backend development while expanding my knowledge of modern software engineering practices. My goal is to become a backend engineer specializing in scalable applications and cloud technologies.
+Java · Python · Dart · JavaScript · SQL · C
 
+Backend & Web
 
+Spring Boot · Django · RESTful APIs · React · HTML · CSS · JSON · JWT
 
+Mobile
 
- Current Focus
-
-Learning Java Backend Development
-
-Improving Spring Boot skills
-
-Building RESTful web applications
-
-Database Design with PostgreSQL & MySQL
-
-Writing clean, maintainable code
-
-Preparing for a Backend Software Engineering Internship
-
-
-
----
-
-💼 Technical Skills
-
-Programming Languages
-
-Java
-
-Python
-
-Dart
-
-JavaScript
-
-SQL
-
-
-Backend
-
-Spring Boot (Beginner)
-
-Spring Security (Basic Knowledge)
-
-Django
-
-REST APIs (Learning)
-
+Flutter · Provider
 
 Databases
 
-PostgreSQL
-
-MySQL
-
-SQLite
-
-
-Frontend & Mobile
-
-Flutter
-
-React
-
-HTML
-
-CSS
-
+PostgreSQL · MySQL · SQLite · Microsoft SQL Server
 
 Tools
 
-Git
+Git · GitHub · IntelliJ IDEA · Android Studio · VS Code · Postman · pgAdmin
 
-GitHub
+🚀 Projects
 
-IntelliJ IDEA
+ReLoop
 
-VS Code
+Flutter · Dart · SQLite · Provider
 
+A full-stack mobile marketplace for discounted food products.
 
+- Authentication and authorization
+- Role-based access control with three user roles
+- 20+ application screens
+- Relational database with 6+ tables
+- Order management and payment workflows
+- Maps and favorites
+- Layered architecture with DAO and Repository patterns
 
----
+DataNest
 
-⭐ Featured Projects
+Django · Python · SQLite
 
-🧠 Nexus AI (Currently Developing)
+A dynamic data repository platform for managing structured records, files, and datasets.
 
-An enterprise knowledge and collaboration platform that I'm building to improve my backend engineering skills.
+- Role-based access control with three user roles
+- 10+ API endpoints
+- Dataset and record management
+- Search and export functionality
+- File uploads
+- Activity logging with Django Signals
+- Database indexing and query optimization
 
-Goals
+Grocery Store
 
-Learn Spring Boot
+Spring Boot · React · PostgreSQL
 
-Practice authentication and authorization
+A full-stack e-commerce application connecting a Spring Boot backend with a React frontend.
 
-Design scalable database structures
+- RESTful APIs for products, customers, and orders
+- CRUD operations
+- Relational database design
+- JSON-based frontend/backend communication
 
-Build secure REST APIs
+📌 Areas I Work With
 
-Explore AI integration in the future
+- Backend Development
+- RESTful APIs
+- Authentication & Authorization
+- Role-Based Access Control
+- Database Design
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Layered Architecture
+- Repository & DAO Patterns
+- State Management
 
+🔗 Find Me
 
-
----
-
-🗄️ DataNest
-
-A dynamic data repository system built with Django.
-
-Features
-
-User authentication
-
-Role-based access control
-
-Dataset management
-
-Dynamic field creation
-
-
-Tech Stack
-
-Python
-
-Django
-
-SQLite
-
-
-
----
-
-🚗 ParkLift
-
-Smart parking elevator simulation.
-
-Tech Stack
-
-Flutter
-
-Provider
-
-SQLite
-
-
-
----
-
-🍽️ ReLoop
-
-Food rescue marketplace mobile application.
-
-Tech Stack
-
-Flutter
-
-SQLite
-
-
-
----
-
-🎯 Current Learning Goals
-
-Become proficient in Spring Boot
-
-Learn Spring Security
-
-Build secure REST APIs
-
-Improve SQL and PostgreSQL skills
-
-Learn Docker
-
-Learn Microsoft Azure
-
-Learn System Design
-
-Learn CI/CD
-
-Learn AI application development
-
-
-
----
-🎯 Looking For
-
-I'm currently seeking Backend Software Engineering Internship opportunities where I can apply my skills, learn from experienced engineers, and contribute to building real-world software solutions.
-
-I'm particularly interested in backend development with Java, Spring Boot, and relational databases, and I'm eager to grow my expertise through hands-on industry experience.
-
----
-
-📫 Connect with Me
-
-🌐 Portfolio: https://ray44i.github.io/
-
-💻 GitHub: https://github.com/Ray44i
-
-🔗 LinkedIn: https://www.linkedin.com/in/rabi-madrk
-
-📧 Email: your-email@example.com
-
-I'm always happy to connect with fellow developers, engineers, recruiters, and tech enthusiasts. Feel free to reach out if you'd like to collaborate, discuss software development, or explore internship opportunities.
+🌐 "Portfolio" (https://ray44i.github.io/)
+💼 "LinkedIn" (https://www.linkedin.com/in/rabi-madrk-a098a237/)
