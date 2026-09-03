@@ -1,29 +1,24 @@
-Hi, I'm Rabea Madrk 
+Hi, I'm Rabea Madrk 👋
 
- Computer Engineering student expected to graduate in 2027.
+🎓 Computer Engineering student, expected to graduate in 2027.
 
- Interested in backend development and building practical applications with a focus on APIs, authentication, databases, and application logic.
+💻 Interested in backend development and building practical applications focused on APIs, authentication, databases, and application logic.
 
- Tech Stack
+🛠️ Tech Stack
 
 Languages
-
 Java · Python · Dart · JavaScript · SQL · C
 
 Backend & Web
-
 Spring Boot · Django · RESTful APIs · React · HTML · CSS · JSON · JWT
 
 Mobile
-
 Flutter · Provider
 
 Databases
-
 PostgreSQL · MySQL · SQLite · Microsoft SQL Server
 
 Tools
-
 Git · GitHub · IntelliJ IDEA · Android Studio · VS Code · Postman · pgAdmin
 
 🚀 Projects
@@ -40,7 +35,7 @@ A full-stack mobile marketplace for discounted food products.
 - Relational database with 6+ tables
 - Order management and payment workflows
 - Maps and favorites
-- Layered architecture with DAO and Repository patterns
+- Layered architecture using DAO and Repository patterns
 
 DataNest
 
@@ -60,27 +55,25 @@ Grocery Store
 
 Spring Boot · React · PostgreSQL
 
-A full-stack e-commerce application connecting a Spring Boot backend with a React frontend.
+A full-stack e-commerce platform connecting a Spring Boot backend with a React frontend.
 
-- RESTful APIs for products, customers, and orders
+- RESTful APIs for product, customer, and order management
 - CRUD operations
 - Relational database design
 - JSON-based frontend/backend communication
 
-📌 Areas I Work With
-
-- Backend Development
-- RESTful APIs
-- Authentication & Authorization
-- Role-Based Access Control
-- Database Design
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Layered Architecture
-- Repository & DAO Patterns
-- State Management
-
 🔗 Find Me
 
 🌐 "Portfolio" (https://ray44i.github.io/)
-💼 "LinkedIn" (https://www.linkedin.com/in/rabi-madrk-a098a237/)
+💼 "LinkedIn" (https://www.linkedin.com/in/rabi-madrk)
+
+
+
+
+
+
+
+
+
+
+
