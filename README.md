@@ -1,26 +1,26 @@
 <div align="center">
 
-<a href="https://capsule-render.vercel.app/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:312E81,65:6D28D9,100:4F46E5&height=210&section=header&text=Rabea%20Madrk&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20AI%2FML&descAlignY=58&descSize=15" alt="Rabea Madrk — Software Engineering"/></a>
+<a href="https://capsule-render.vercel.app/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B120E,30:173D2B,65:2E6B45,100:3F8058&height=210&section=header&text=Rabea%20Madrk&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=BACKEND%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20AI%2FML&descAlignY=58&descSize=14" alt="Rabea Madrk — Backend and Software Engineering"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Backend+%26+Software+Engineering;Building+Practical+Applications+and+APIs;Exploring+AI%2FML+and+Intelligent+Products;Turning+Ideas+Into+Working+Software" alt="Animated introduction"/>
-
-<br/>
-
-<a href="https://www.topkapi.edu.tr/"><img src="https://img.shields.io/badge/Computer_Engineering-Istanbul_Topkapi_University-6D28D9?style=flat-square&logo=academia&logoColor=white" alt="Computer Engineering at Istanbul Topkapi University"/></a>
-<img src="https://img.shields.io/badge/Graduation-2027-4F46E5?style=flat-square" alt="Expected graduation 2027"/>
-<img src="https://img.shields.io/badge/Location-Istanbul%2C_T%C3%BCrkiye-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Istanbul, Türkiye"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=B7D9A8&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Backend+%26+Software+Engineering;Building+APIs+and+Database-Driven+Systems;Software+Testing+%26+Security;AI%2FML-Enabled+Software+Products" alt="Introduction"/>
 
 <br/><br/>
 
-<a href="https://ray44i.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/rabi-madrk"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Ray44i"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.topkapi.edu.tr/"><img src="https://img.shields.io/badge/COMPUTER_ENGINEERING-Istanbul_Topkapi_University-2E6B45?style=for-the-badge&logo=academia&logoColor=white" alt="Istanbul Topkapi University"/></a>
+<img src="https://img.shields.io/badge/GRADUATION-2027-3F8058?style=for-the-badge" alt="Graduation 2027"/>
+<img src="https://img.shields.io/badge/FOCUS-Backend_Engineering-173D2B?style=for-the-badge" alt="Backend engineering focus"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ray44i&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
-<a href="https://github.com/Ray44i?tab=followers"><img src="https://img.shields.io/github/followers/Ray44i?style=flat-square&color=4F46E5&label=FOLLOWERS" alt="GitHub followers"/></a>
-<a href="https://github.com/Ray44i?tab=repositories"><img src="https://img.shields.io/github/stars/Ray44i?style=flat-square&color=7C3AED&label=STARS" alt="GitHub stars"/></a>
+<a href="https://ray44i.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore_My_Work-2E6B45?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/rabi-madrk"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Ray44i"><img src="https://img.shields.io/badge/GITHUB-View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ray44i&style=flat-square&color=2E6B45&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/Ray44i?tab=followers"><img src="https://img.shields.io/github/followers/Ray44i?style=flat-square&color=3F8058&label=FOLLOWERS" alt="GitHub followers"/></a>
+<a href="https://github.com/Ray44i?tab=repositories"><img src="https://img.shields.io/github/stars/Ray44i?style=flat-square&color=4C956C&label=STARS" alt="GitHub stars"/></a>
 
 </div>
 
@@ -28,20 +28,39 @@
 
 ## About Me
 
-I'm a Computer Engineering student at **Istanbul Topkapi University**, expected to graduate in 2027, with a primary focus on backend development and software engineering.
+I'm a **Computer Engineering student at Istanbul Topkapi University**, expected to graduate in 2027, with a primary focus on **backend development and software engineering**.
 
-I enjoy building practical applications that combine clean application logic, well-structured APIs, authentication, and relational databases. My projects span backend systems, full-stack web applications, and mobile development, giving me experience with different parts of the software development lifecycle.
+I build practical applications with an emphasis on API design, authentication and authorization, database design, application logic, and maintainable architecture. My project experience includes backend services, relational databases, full-stack applications, mobile development, and automated software testing.
 
-I'm also interested in **Artificial Intelligence and Machine Learning**, particularly their potential to solve real-world problems through useful, reliable software products.
+I approach software engineering with a focus on more than making features work: understanding system behavior, handling edge cases, validating security boundaries, and verifying fixes through repeatable tests.
 
-- **Software Engineering:** Maintainable code, application architecture, debugging, and testing.
-- **Backend Development:** RESTful APIs, authentication, authorization, and database-driven applications.
-- **Full-Stack Development:** Connecting frontend interfaces with backend services.
-- **Mobile Development:** Building Flutter applications with structured state management and persistence.
-- **AI/ML:** Exploring intelligent applications and practical AI integration.
-- **Engineering Mindset:** Understanding the problem, implementing a solution, testing edge cases, and continuously improving.
+I'm also interested in **AI/ML-enabled software products**, particularly the architecture behind intelligent applications, personalization, and ranking systems.
 
-**Currently open to:** Software Engineering Internships · Backend Development · Python Development · Collaborative Software Projects
+<div align="center">
+
+| BACKEND ENGINEERING | SOFTWARE RELIABILITY | INTELLIGENT SYSTEMS |
+|:---:|:---:|:---:|
+| APIs · Databases · Auth | Testing · Security · Debugging | AI/ML · Personalization · Ranking |
+
+</div>
+
+---
+
+## Backend Engineering
+
+<div align="center">
+
+| AREA | ENGINEERING FOCUS |
+|:---|:---|
+| API Development | RESTful endpoints, request handling, CRUD operations, and service integration |
+| Authentication & Authorization | Access control, role-based workflows, and permission boundaries |
+| Database Engineering | Relational modeling, SQL, persistence, indexing, and query optimization |
+| Application Architecture | Separation of responsibilities, reusable components, and maintainable code |
+| Software Testing | Automated tests, regression testing, edge cases, and reproducible failures |
+| Security & Reliability | Authorization checks, validation, duplicate operations, and race-condition scenarios |
+| System Integration | Connecting frontend applications, backend services, and data layers |
+
+</div>
 
 ---
 
@@ -53,11 +72,26 @@ I'm also interested in **Artificial Intelligence and Machine Learning**, particu
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="42" alt="Python"/></a>
 <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="42" alt="Java"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="42" alt="JavaScript"/></a>
-<a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" height="42" alt="Dart"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" height="42" alt="TypeScript"/></a>
-<a href="https://www.w3.org/TR/html52/"><img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML"/></a>
-<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS"/></a>
+<a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" height="42" alt="Dart"/></a>
 <a href="https://www.iso.org/standard/74528.html"><img src="https://skillicons.dev/icons?i=c" height="42" alt="C"/></a>
+</p>
+
+### Backend & Frameworks
+
+<p>
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" height="42" alt="Django"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="42" alt="FastAPI"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="42" alt="Spring Boot"/></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js"/></a>
+</p>
+
+### Databases
+
+<p>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL"/></a>
+<a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" height="42" alt="SQLite"/></a>
 </p>
 
 ### Frontend & Mobile
@@ -65,24 +99,11 @@ I'm also interested in **Artificial Intelligence and Machine Learning**, particu
 <p>
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="42" alt="React"/></a>
 <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" height="42" alt="Flutter"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="42" alt="JavaScript"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS"/></a>
 </p>
 
-### Backend & Databases
-
-<p>
-<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="42" alt="Spring Boot"/></a>
-<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" height="42" alt="Django"/></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="42" alt="FastAPI"/></a>
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js"/></a>
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL"/></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL"/></a>
-<a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" height="42" alt="SQLite"/></a>
-</p>
-
-### Cloud, DevOps & Tooling
+### Development Tools
 
 <p>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git"/></a>
@@ -93,247 +114,156 @@ I'm also interested in **Artificial Intelligence and Machine Learning**, particu
 <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman"/></a>
 </p>
 
-| Category    | Technologies                                                                 |
-| ----------- | ---------------------------------------------------------------------------- |
-| Programming | Java, Python, Dart, JavaScript, SQL, C                                       |
-| Backend     | Spring Boot, Django, FastAPI, RESTful APIs, JSON, JWT                        |
-| Frontend    | React, HTML, CSS                                                             |
-| Mobile      | Flutter, Provider                                                            |
-| Databases   | PostgreSQL, MySQL, SQLite, Microsoft SQL Server                              |
-| Tools       | Git, GitHub, IntelliJ IDEA, Android Studio, VS Code, Postman, pgAdmin        |
-| Engineering | CRUD, authentication, authorization, relational database design, API testing |
-
 ---
 
-## AI / ML Expertise
+## Architecture & AI-Enabled Systems
 
-I'm interested in applying AI and machine learning to practical software engineering problems. My current focus is on strengthening the fundamentals and learning how intelligent capabilities can be integrated into useful applications.
+My interests extend from backend implementation to the architecture of intelligent software products.
 
-| Domain                   | Focus      | Details                                                                |
-| ------------------------ | ---------- | ---------------------------------------------------------------------- |
-| Applied AI               | Exploring  | Identifying practical opportunities for AI-powered software            |
-| Machine Learning         | Learning   | Developing foundational knowledge of machine learning concepts         |
-| AI Integration           | Exploring  | Connecting AI capabilities with application backends and APIs          |
-| Data Management          | Developing | Working with structured data, SQL, and application persistence         |
-| Intelligent Applications | Exploring  | Investigating software that helps users make sense of complex problems |
-| AI Product Engineering   | Developing | Combining application design, backend logic, and intelligent features  |
+Areas connected to this focus include:
+
+- **Local context and cloud-side processing:** separating user-specific context from broader candidate generation.
+- **Personalization and ranking:** organizing candidate results according to relevant user context and system logic.
+- **System boundaries:** keeping responsibilities distinct across application logic, data handling, and supporting services.
+- **Reliable integration:** treating intelligent features as part of a complete software system, supported by structured data, clear interfaces, and testable behavior.
+
+I see AI/ML as a complement to strong software engineering: intelligent features still need reliable backend systems, clear architecture, and predictable application behavior.
 
 ---
 
 ## Featured Projects
 
-### ReLoop — Mobile Food Marketplace
+### 01. BreakIt — Security Testing & Verification
 
 <details>
 <summary><strong>View project details</strong></summary>
 
-**ReLoop** is a mobile marketplace concept for discounted food products, designed to connect users with more affordable food options while helping reduce food waste.
+BreakIt explores a repeatable workflow for finding software weaknesses, reproducing failures, verifying fixes, and running regression tests.
 
-**Tech Stack:** Flutter · Dart · SQLite · Provider
+**Technologies:** Python · FastAPI · SQLite · Pytest
 
-| Metric      | Details                                                                     |
-| ----------- | --------------------------------------------------------------------------- |
-| Stack       | Flutter, Dart, SQLite, Provider                                             |
-| Scale       | 20+ application screens and 6+ database tables                              |
-| Performance | Local persistence and structured application state management               |
-| Security    | Authentication, authorization, and role-based access control                |
-| Impact      | Supports discounted food discovery and marketplace workflows                |
-| Repository  | Browse my GitHub repositories |
+**Engineering highlights**
 
-**Key Features**
-
-- Authentication and authorization.
-- Three user roles with role-based access control.
-- More than 20 application screens.
-- Relational database design with 6+ tables.
-- Order management and payment workflows.
-- Maps and favorites.
-- Layered architecture using DAO and Repository patterns.
-
-**Engineering Focus:** Mobile application architecture, local persistence, state management, and role-based application workflows.
-
-</details>
-
-### DataNest — Structured Data Repository
-
-<details>
-<summary><strong>View project details</strong></summary>
-
-**DataNest** is a Django-based data repository platform for managing structured records, files, and datasets through a dynamic web application.
-
-**Tech Stack:** Python · Django · SQLite
-
-| Metric      | Details                                                                     |
-| ----------- | --------------------------------------------------------------------------- |
-| Stack       | Python, Django, SQLite                                                      |
-| Scale       | 10+ API endpoints and three user roles                                      |
-| Performance | Database indexing and query optimization                                    |
-| Security    | Role-based access control                                                   |
-| Impact      | Organizes dataset and record management in one application                  |
-| Repository  | Browse my GitHub repositories |
-
-**Key Features**
-
-- Role-based access control with three user roles.
-- 10+ API endpoints.
-- Dataset and record management.
-- Search and export functionality.
-- File uploads.
-- Activity logging with Django Signals.
-- Database indexing and query optimization.
-
-**Engineering Focus:** Backend development, data modeling, access control, and efficient database queries.
-
-</details>
-
-### Grocery Store — Full-Stack E-Commerce
-
-<details>
-<summary><strong>View project details</strong></summary>
-
-**Grocery Store** is a full-stack e-commerce application connecting a Spring Boot backend with a React frontend and PostgreSQL database.
-
-**Tech Stack:** Spring Boot · Java · React · PostgreSQL
-
-| Metric      | Details                                                                           |
-| ----------- | --------------------------------------------------------------------------------- |
-| Stack       | Spring Boot, Java, React, PostgreSQL                                              |
-| Scale       | Product, customer, and order management                                           |
-| Performance | Relational persistence and structured API communication                           |
-| Security    | Backend application logic for managing application resources                      |
-| Impact      | Demonstrates full-stack integration across frontend, backend, and database layers |
-| Repository  | Browse my GitHub repositories       |
-
-**Key Features**
-
-- RESTful APIs for product management.
-- Customer and order management.
-- CRUD operations.
-- Relational database design.
-- JSON-based frontend/backend communication.
-- Integration between a React interface and Spring Boot services.
-
-**Engineering Focus:** Java backend development, REST API design, database integration, and full-stack application workflows.
-
-</details>
-
-### BreakIt — Security Testing & Verification
-
-<details>
-<summary><strong>View project details</strong></summary>
-
-**BreakIt** explores a repeatable software testing workflow designed to discover vulnerabilities, reproduce failures, verify fixes, and run regression tests against a controlled application.
-
-**Tech Stack:** Python · FastAPI · SQLite · Pytest
-
-| Metric      | Details                                                                     |
-| ----------- | --------------------------------------------------------------------------- |
-| Stack       | Python, FastAPI, SQLite, Pytest                                             |
-| Scale       | Multiple security scenarios and automated regression tests                  |
-| Performance | Repeatable automated local test execution                                   |
-| Security    | Authorization, duplicate checkout, race conditions, and validation          |
-| Impact      | Demonstrates evidence-based vulnerability testing and fix verification      |
-| Repository  | Browse my GitHub repositories |
-
-**Key Features**
-
-- Built a controlled MiniShop API testing target.
-- Investigated last-item purchase race conditions.
+- Built a controlled API application as a security-testing target.
+- Investigated race conditions during last-item purchases.
 - Tested order authorization boundaries.
 - Examined duplicate checkout behavior and input validation.
 - Added automated security regression tests.
 - Documented evidence for a security finding.
 
-**Validation:** One recorded local run passed 12 tests with one warning.
+**Recorded test result:** 12 tests passed, with one warning in a local run.
 
-**Engineering Focus:** Backend reliability, security testing, reproducible bug reports, and regression verification.
+**Focus:** Backend reliability, security testing, reproducible defects, and verification.
+
+</details>
+
+### 02. DataNest — Structured Data Repository
+
+<details>
+<summary><strong>View project details</strong></summary>
+
+DataNest is a Django-based application for managing datasets, structured records, and uploaded files.
+
+**Technologies:** Python · Django · SQLite
+
+**Engineering highlights**
+
+- Implemented 10+ API endpoints.
+- Structured access around three user roles.
+- Built dataset and record management workflows.
+- Added search, export, and file-upload functionality.
+- Used Django Signals for activity logging.
+- Applied database indexing and query optimization.
+
+**Focus:** Backend development, data modeling, access control, and database performance.
+
+</details>
+
+### 03. Grocery Store — Full-Stack E-Commerce
+
+<details>
+<summary><strong>View project details</strong></summary>
+
+A full-stack e-commerce application connecting a Spring Boot backend with a React frontend and PostgreSQL database.
+
+**Technologies:** Java · Spring Boot · React · PostgreSQL
+
+**Engineering highlights**
+
+- Developed RESTful APIs for product management.
+- Implemented customer and order management workflows.
+- Built CRUD operations.
+- Integrated relational database persistence.
+- Connected frontend and backend through JSON-based communication.
+
+**Focus:** Java backend development, API design, database integration, and application-layer communication.
+
+</details>
+
+### 04. ReLoop — Mobile Food Marketplace
+
+<details>
+<summary><strong>View project details</strong></summary>
+
+ReLoop is a mobile marketplace concept for discounted food products, designed to connect users with affordable options while helping reduce food waste.
+
+**Technologies:** Flutter · Dart · SQLite · Provider
+
+**Engineering highlights**
+
+- Built more than 20 application screens.
+- Designed a local database with 6+ tables.
+- Implemented three user roles and role-based access control.
+- Developed authentication and authorization workflows.
+- Included order and payment flows, maps, and favorites.
+- Organized data access using DAO and Repository patterns.
+
+**Focus:** Application architecture, persistence, state management, and role-based workflows.
 
 </details>
 
 ---
 
-## Experience
+## Collaborative Engineering Experience
 
 ### Backend Development & Software Testing
+*Collaborative Software Projects · 2026–Present*
 
-**Collaborative Software Projects**
-*2026 – Present*
+Contributing to team-based software projects with a focus on backend functionality, integration, test coverage, and reliability.
 
-Contributing to team-based applications with a focus on backend workflows, API integration, testing, and software reliability.
-
-- Implement and validate backend functionality.
-- Work with REST APIs, relational databases, and application logic.
+- Implement and validate backend workflows.
+- Work with APIs, relational databases, and application logic.
 - Test authentication and authorization behavior.
-- Investigate defects and verify fixes with repeatable tests.
+- Investigate defects and verify fixes through repeatable tests.
 - Maintain technical documentation and test evidence.
-- Collaborate through Git, GitHub branches, commits, and code reviews.
-- Coordinate frontend/backend integration and communicate technical blockers.
+- Collaborate through Git, branches, commits, and pull-request workflows.
+- Coordinate integration work and communicate technical blockers.
 
-**Skills:** Python · Java · JavaScript · SQL · REST APIs · FastAPI · Django · Git · Pytest · PostgreSQL
+### Backend Testing & Payment Workflows
 
-### Computer Engineering Student
+In a collaborative application project, my responsibilities include backend validation and payment-related testing.
 
-**Istanbul Topkapi University**
-*Expected Graduation: 2027*
+- Validate backend configuration and API reachability.
+- Test authentication, authorization, and database behavior.
+- Investigate subscription lifecycle and entitlement synchronization scenarios.
+- Document test results and distinguish locally simulated behavior from externally verified results.
+- Track dependencies that require an available sandbox, test device, or external service configuration.
 
-Pursuing a B.Sc. in Computer Engineering with interests in backend systems, full-stack applications, mobile development, and applied AI.
-
-- Apply programming and database concepts to practical projects.
-- Develop applications across backend, web, and mobile environments.
-- Practice debugging, software testing, and collaborative development.
-- Explore machine learning and intelligent software products.
-
-**Focus Areas:** Software Engineering · Backend Development · Databases · Application Architecture · AI/ML
+**Focus:** Backend validation, payment workflow testing, integration reliability, and evidence-based reporting.
 
 ---
 
-## Achievements
+## Selected Engineering Work
 
-| Recognition                    | Details                                                                           |
-| ------------------------------ | --------------------------------------------------------------------------------- |
-| Mobile Application Development | Built ReLoop with 20+ application screens and a relational local database         |
-| Backend Development            | Developed DataNest with 10+ API endpoints and database optimization               |
-| Full-Stack Engineering         | Integrated a Spring Boot backend with React and PostgreSQL                        |
-| Security Testing               | Created automated tests for authorization, checkout, and race-condition scenarios |
-| Collaborative Engineering      | Contributed to multi-developer software projects using Git and GitHub             |
-
----
-
-## Certifications
-
-No verified certifications are listed yet. This section can be updated when certifications have been earned.
-
-### AWS
-
-<a href="https://aws.amazon.com/certification/"><img src="https://img.shields.io/badge/AWS-Certification_Path-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS certification resources"/></a>
-
-### Oracle
-
-<a href="https://education.oracle.com/"><img src="https://img.shields.io/badge/Oracle-Certification_Path-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle certification resources"/></a>
-
-### NPTEL
-
-<a href="https://nptel.ac.in/"><img src="https://img.shields.io/badge/NPTEL-Courses-4F46E5?style=for-the-badge" alt="NPTEL courses"/></a>
-
-### Cisco
-
-<a href="https://www.netacad.com/"><img src="https://img.shields.io/badge/Cisco-Learning-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco learning resources"/></a>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
-
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-
-</div>
+| Area | Demonstrated work |
+|:---|:---|
+| API Engineering | Built and tested REST endpoints across backend projects |
+| Data Management | Structured relational databases and optimized queries |
+| Access Control | Implemented role-based workflows and tested authorization boundaries |
+| Software Testing | Wrote automated tests and verified fixes against regression scenarios |
+| Application Integration | Connected frontend, backend, and database layers |
+| System Architecture | Worked with application boundaries, user context, and personalization/ranking concepts |
+| Team Collaboration | Maintained branches, commits, technical reports, and integration communication |
 
 ---
 
@@ -342,113 +272,43 @@ No verified certifications are listed yet. This section can be updated when cert
 <div align="center">
 
 <a href="https://github.com/Ray44i">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ray44i&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ray44i&show_icons=true&hide_border=true&bg_color=0B120E&title_color=B7D9A8&icon_color=8FBF83&text_color=C9D1D9&ring_color=6FA77B&include_all_commits=true" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/Ray44i">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray44i&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray44i&layout=compact&hide_border=true&bg_color=0B120E&title_color=B7D9A8&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
 </a>
 
 <a href="https://github.com/Ray44i">
-<img height="180" src="https://streak-stats.demolab.com?user=Ray44i&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+<img height="180" src="https://streak-stats.demolab.com?user=Ray44i&theme=transparent&hide_border=true&background=0B120E&ring=6FA77B&fire=B7D9A8&currStreakLabel=B7D9A8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
 </a>
 
 </div>
 
 ---
 
-## GitHub Trophies
+## Current Engineering Focus
 
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Ray44i&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ray44i&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Ray44i/Ray44i/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-## Current Focus
-
-```
+```yaml
 profile:
   role: "Computer Engineering Student"
   graduation: 2027
   primary_focus: "Backend and Software Engineering"
+  secondary_interest: "AI/ML-enabled software"
 
-learning:
-  - Python and Django
-  - Java and Spring Boot
-  - API Design and Backend Architecture
-  - Database Design and Optimization
-  - Software Testing and Security
-  - Applied Machine Learning
+engineering:
+  - RESTful API design and backend services
+  - Database-driven applications
+  - Authentication and authorization
+  - Relational data modeling and query optimization
+  - Automated testing and regression verification
+  - Security boundaries and backend reliability
+  - Maintainable application architecture
 
-building:
-  - RESTful APIs
-  - Database-Driven Applications
-  - Full-Stack and Mobile Applications
-  - Automated Testing Workflows
-  - Practical Software Projects
-
-exploring:
-  - AI/ML Integration
-  - Intelligent Software Products
-  - Secure Backend Systems
-  - Maintainable Application Architecture
-
-open_to:
-  - Software Engineering Internships
-  - Backend Development Opportunities
-  - Open Source Collaboration
-  - AI/ML-Oriented Software Projects
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://ray44i.github.io/"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-
-<a href="https://www.linkedin.com/in/rabi-madrk"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<a href="https://github.com/Ray44i"><img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-</div>
-
-I'm interested in connecting with developers, software engineers, and teams building practical applications, reliable backend systems, and useful AI-powered products.
-
----
-
-## Engineering Philosophy
-
-<div align="center">
-
-*Build with purpose. Write maintainable code. Test what matters. Improve continuously.*
-
-<a href="https://capsule-render.vercel.app/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,35:6D28D9,70:312E81,100:0D1117&height=120&section=footer" alt="Purple gradient footer"/></a>
-
-</div>
-
-Correct my name and profile linksMake the profile more backend-focused
+system_design:
+  - Clear API and service boundaries
+  - Structured data and persistence
+  - Local user context and cloud-side candidate generation
+  - Personalization and ranking concepts
+  - Integration between application components
+  - Testable and reliable software workflows
