@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#071426"/><stop offset=".56" stop-color="#102c4e"/><stop offset="1" stop-color="#071426"/></linearGradient>
+    <linearGradient id="river" x1="520" y1="185" x2="1130" y2="330" gradientUnits="userSpaceOnUse"><stop stop-color="#38bdf8" stop-opacity=".56"/><stop offset="1" stop-color="#6366f1" stop-opacity=".06"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(260 0 0 200 940 83)" gradientUnits="userSpaceOnUse"><stop stop-color="#38bdf8" stop-opacity=".24"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#93c5fd" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#glow)"/>
+  <path d="M525 238c96-25 138 16 230-1 93-17 136-68 247-49 70 12 119 52 198 29v143H525V238Z" fill="url(#river)"/>
+  <path d="M530 248c89-25 139 15 228-2 91-17 141-69 244-49 75 15 119 52 197 30" stroke="#7dd3fc" stroke-opacity=".62" stroke-width="2"/>
+  <path d="M590 281c93-23 143 18 232 1 90-17 141-68 238-48 53 11 94 34 142 32M680 320c72-13 121 11 199-2 89-15 146-58 234-42" stroke="#93c5fd" stroke-opacity=".24" stroke-width="1.5"/>
+  <g stroke="#a5d8ff" stroke-opacity=".48" fill="#102c4e"><path d="M786 188v-39h22v39m14 0v-62h28v62m17 0v-33h24v33m26 0v-76h27v76m15 0v-47h23v47m18 0v-28h25v28m18 0v-58h30v58m18 0v-39h25v39"/><path d="M770 189h291"/></g>
+  <path d="M741 177c40-34 80-34 120 0m26-12c40-34 80-34 120 0m26-12c33-28 66-28 99 0" stroke="#bae6fd" stroke-opacity=".5" stroke-width="1.5"/>
+  <circle cx="741" cy="177" r="3" fill="#7dd3fc"/><circle cx="887" cy="165" r="3" fill="#7dd3fc"/><circle cx="1013" cy="153" r="3" fill="#7dd3fc"/>
+  <rect x="62" y="55" width="174" height="27" rx="13.5" fill="#0e7490" fill-opacity=".28" stroke="#67e8f9" stroke-opacity=".42"/>
+  <circle cx="79" cy="68.5" r="4" fill="#67e8f9"/><text x="92" y="73" fill="#bae6fd" font-family="Arial,sans-serif" font-size="12" letter-spacing="2.4">ISTANBUL · TÜRKİYE</text>
+  <text x="60" y="157" fill="#f8fafc" font-family="Arial,sans-serif" font-size="59" font-weight="700" letter-spacing="-1.4">RABII SEN</text>
+  <text x="64" y="200" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="20" letter-spacing="2.2">MOBILE  /  BACKEND  /  SYSTEMS</text>
+  <path d="M64 231h330" stroke="#38bdf8" stroke-opacity=".8"/>
+  <text x="64" y="263" fill="#94a3b8" font-family="Arial,sans-serif" font-size="14" letter-spacing="1.15">Thoughtful apps. Reliable foundations.</text>
+  <text x="1114" y="330" text-anchor="end" fill="#bae6fd" fill-opacity=".65" font-family="monospace" font-size="11" letter-spacing="2">41.0082° N  /  28.9784° E</text>
+</svg>
