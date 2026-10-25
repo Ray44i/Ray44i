@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ray44i/Ray44i/main/assets/profile-header.svg" alt="Rabii Sen — Mobile, Backend & Systems" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ray44i/Ray44i/d4f3d5aab45042ae50fd302c21bb5e6e315c6e66/assets/profile-header.svg" alt="Rabii Madrk — Mobile, Backend & Systems" width="100%" />
   <br/><br/>
-  <a href="https://ray44i.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-0B1D33?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/rabi-madrk"><img src="https://img.shields.io/badge/LINKEDIN-0B1D33?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn" /></a>
-  <a href="https://github.com/Ray44i"><img src="https://img.shields.io/badge/GITHUB-0B1D33?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub" /></a>
+  <a href="https://ray44i.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-10291D?style=for-the-badge&logo=googlechrome&logoColor=86EFAC" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rabi-madrk"><img src="https://img.shields.io/badge/LINKEDIN-10291D?style=for-the-badge&logo=linkedin&logoColor=86EFAC" alt="LinkedIn" /></a>
+  <a href="https://github.com/Ray44i"><img src="https://img.shields.io/badge/GITHUB-10291D?style=for-the-badge&logo=github&logoColor=86EFAC" alt="GitHub" /></a>
 </div>
 
 ---
@@ -31,16 +31,16 @@
 <h2 align="center">Tools I work with</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-176B87?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-176B87?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-176B87?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-176B87?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Java-176B87?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-176B87?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/React-176B87?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/PostgreSQL-176B87?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-176B87?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-176B87?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Flutter-287A54?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-287A54?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-287A54?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-287A54?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Java-287A54?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-287A54?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-287A54?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-287A54?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-287A54?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-287A54?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 <h2 align="center">A few things I’ve built</h2>
