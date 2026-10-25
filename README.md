@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ray44i/Ray44i/d4f3d5aab45042ae50fd302c21bb5e6e315c6e66/assets/profile-header.svg" alt="Rabii Madrk — Mobile, Backend & Systems" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ray44i/Ray44i/d8e5809567659aabfb49d400e0dd92b58fc8ce15/assets/green-pixel-banner.png" alt="Rabii Madrk — green pixel city, Computer Engineering student" width="100%" />
+  <br/>
+  <sub>Pixel city art by cottonball · <a href="https://opengameart.org/content/neon-city-0">CC0</a></sub>
   <br/><br/>
   <a href="https://ray44i.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-10291D?style=for-the-badge&logo=googlechrome&logoColor=86EFAC" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/rabi-madrk"><img src="https://img.shields.io/badge/LINKEDIN-10291D?style=for-the-badge&logo=linkedin&logoColor=86EFAC" alt="LinkedIn" /></a>
