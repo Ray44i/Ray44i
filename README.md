@@ -1,32 +1,28 @@
-We'll replace your existing profile README with a complete, premium purple/indigo design while keeping your real projects and career focus at the center.
+<div align="center">
 
-The README will use Rabea Madrk, your GitHub account `Ray44i`, your [portfolio](https://ray44i.github.io/?utm_source=chatgpt.com) and your [LinkedIn profile](https://www.linkedin.com/in/rabi-madrk?utm_source=chatgpt.com). It will emphasize backend engineering, software development, and your secondary interest in AI/ML without inventing credentials or achievements.
+<a href="https://capsule-render.vercel.app/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:312E81,65:6D28D9,100:4F46E5&height=210&section=header&text=Rabea%20Madrk&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20AI%2FML&descAlignY=58&descSize=15" alt="Rabea Madrk — Software Engineering"/></a>
 
-&#x20;\<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Backend+%26+Software+Engineering;Building+Practical+Applications+and+APIs;Exploring+AI%2FML+and+Intelligent+Products;Turning+Ideas+Into+Working+Software" alt="Animated introduction"/>
 
-\<a href="[https://capsule-render.vercel.app/](https://capsule-render.vercel.app/)">\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:312E81,65:6D28D9,100:4F46E5&height=210&section=header&text=Rabea%20Madrk&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20AI%2FML&descAlignY=58&descSize=15](https://capsule-render.vercel.app/api?type=waving\&color=0:0D1117,30:312E81,65:6D28D9,100:4F46E5\&height=210\&section=header\&text=Rabea%20Madrk\&fontSize=46\&fontColor=FFFFFF\&fontAlignY=36\&animation=fadeIn\&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20AI%2FML\&descAlignY=58\&descSize=15)" alt="Rabea Madrk — Software Engineering"/>\</a>
+<br/>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Backend+%26+Software+Engineering;Building+Practical+Applications+and+APIs;Exploring+AI%2FML+and+Intelligent+Products;Turning+Ideas+Into+Working+Software](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=17\&duration=2800\&pause=900\&color=A78BFA\&center=true\&vCenter=true\&width=700\&lines=Computer+Engineering+Student;Backend+%26+Software+Engineering;Building+Practical+Applications+and+APIs;Exploring+AI%2FML+and+Intelligent+Products;Turning+Ideas+Into+Working+Software)" alt="Animated introduction"/>
+<a href="https://www.topkapi.edu.tr/"><img src="https://img.shields.io/badge/Computer_Engineering-Istanbul_Topkapi_University-6D28D9?style=flat-square&logo=academia&logoColor=white" alt="Computer Engineering at Istanbul Topkapi University"/></a>
+<img src="https://img.shields.io/badge/Graduation-2027-4F46E5?style=flat-square" alt="Expected graduation 2027"/>
+<img src="https://img.shields.io/badge/Location-Istanbul%2C_T%C3%BCrkiye-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Istanbul, Türkiye"/>
 
-\<br/>
+<br/><br/>
 
-\<a href="[https://www.topkapi.edu.tr/](https://www.topkapi.edu.tr/)">\<img src="[https://img.shields.io/badge/Computer_Engineering-Istanbul_Topkapi_University-6D28D9?style=flat-square&logo=academia&logoColor=white](https://img.shields.io/badge/Computer_Engineering-Istanbul_Topkapi_University-6D28D9?style=flat-square\&logo=academia\&logoColor=white)" alt="Computer Engineering at Istanbul Topkapi University"/>\</a>\
-\<img src="[https://img.shields.io/badge/Graduation-2027-4F46E5?style=flat-square](https://img.shields.io/badge/Graduation-2027-4F46E5?style=flat-square)" alt="Expected graduation 2027"/>\
-\<img src="[https://img.shields.io/badge/Location-Istanbul%2C_T%C3%BCrkiye-312E81?style=flat-square&logo=googlemaps&logoColor=white](https://img.shields.io/badge/Location-Istanbul%2C_T%C3%BCrkiye-312E81?style=flat-square\&logo=googlemaps\&logoColor=white)" alt="Istanbul, Türkiye"/>
+<a href="https://ray44i.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/rabi-madrk"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Ray44i"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<a href="[https://ray44i.github.io/](https://ray44i.github.io/)">\<img src="[https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white](https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge\&logo=githubpages\&logoColor=white)" alt="Portfolio"/>\</a>\
-\<a href="[https://www.linkedin.com/in/rabi-madrk](https://www.linkedin.com/in/rabi-madrk)">\<img src="[https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>\</a>\
-\<a href="[https://github.com/Ray44i](https://github.com/Ray44i)">\<img src="[https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>\</a>
+<img src="https://komarev.com/ghpvc/?username=Ray44i&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/Ray44i?tab=followers"><img src="https://img.shields.io/github/followers/Ray44i?style=flat-square&color=4F46E5&label=FOLLOWERS" alt="GitHub followers"/></a>
+<a href="https://github.com/Ray44i?tab=repositories"><img src="https://img.shields.io/github/stars/Ray44i?style=flat-square&color=7C3AED&label=STARS" alt="GitHub stars"/></a>
 
-\<br/>\<br/>
-
-\<img src="[https://komarev.com/ghpvc/?username=Ray44i&style=flat-square&color=6D28D9&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=Ray44i\&style=flat-square\&color=6D28D9\&label=PROFILE+VIEWS)" alt="Profile views"/>\
-\<a href="[https://github.com/Ray44i?tab=followers](https://github.com/Ray44i?tab=followers)">\<img src="[https://img.shields.io/github/followers/Ray44i?style=flat-square&color=4F46E5&label=FOLLOWERS](https://img.shields.io/github/followers/Ray44i?style=flat-square\&color=4F46E5\&label=FOLLOWERS)" alt="GitHub followers"/>\</a>\
-\<a href="[https://github.com/Ray44i?tab=repositories](https://github.com/Ray44i?tab=repositories)">\<img src="[https://img.shields.io/github/stars/Ray44i?style=flat-square&color=7C3AED&label=STARS](https://img.shields.io/github/stars/Ray44i?style=flat-square\&color=7C3AED\&label=STARS)" alt="GitHub stars"/>\</a>
-
-\</div>
+</div>
 
 ---
 
@@ -53,49 +49,49 @@ I'm also interested in **Artificial Intelligence and Machine Learning**, particu
 
 ### Languages
 
-\<p>\
-\<a href="[https://www.python.org/](https://www.python.org/)">\<img src="[https://skillicons.dev/icons?i=python](https://skillicons.dev/icons?i=python)" height="42" alt="Python"/>\</a>\
-\<a href="[https://www.java.com/](https://www.java.com/)">\<img src="[https://skillicons.dev/icons?i=java](https://skillicons.dev/icons?i=java)" height="42" alt="Java"/>\</a>\
-\<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)">\<img src="[https://skillicons.dev/icons?i=javascript](https://skillicons.dev/icons?i=javascript)" height="42" alt="JavaScript"/>\</a>\
-\<a href="[https://dart.dev/](https://dart.dev/)">\<img src="[https://skillicons.dev/icons?i=dart](https://skillicons.dev/icons?i=dart)" height="42" alt="Dart"/>\</a>\
-\<a href="[https://www.typescriptlang.org/](https://www.typescriptlang.org/)">\<img src="[https://skillicons.dev/icons?i=typescript](https://skillicons.dev/icons?i=typescript)" height="42" alt="TypeScript"/>\</a>\
-\<a href="[https://www.w3.org/TR/html52/](https://www.w3.org/TR/html52/)">\<img src="[https://skillicons.dev/icons?i=html](https://skillicons.dev/icons?i=html)" height="42" alt="HTML"/>\</a>\
-\<a href="[https://www.w3.org/Style/CSS/](https://www.w3.org/Style/CSS/)">\<img src="[https://skillicons.dev/icons?i=css](https://skillicons.dev/icons?i=css)" height="42" alt="CSS"/>\</a>\
-\<a href="[https://www.iso.org/standard/74528.html](https://www.iso.org/standard/74528.html)">\<img src="[https://skillicons.dev/icons?i=c](https://skillicons.dev/icons?i=c)" height="42" alt="C"/>\</a>\
-\</p>
+<p>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="42" alt="Python"/></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="42" alt="Java"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="42" alt="JavaScript"/></a>
+<a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" height="42" alt="Dart"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" height="42" alt="TypeScript"/></a>
+<a href="https://www.w3.org/TR/html52/"><img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML"/></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS"/></a>
+<a href="https://www.iso.org/standard/74528.html"><img src="https://skillicons.dev/icons?i=c" height="42" alt="C"/></a>
+</p>
 
 ### Frontend & Mobile
 
-\<p>\
-\<a href="[https://react.dev/](https://react.dev/)">\<img src="[https://skillicons.dev/icons?i=react](https://skillicons.dev/icons?i=react)" height="42" alt="React"/>\</a>\
-\<a href="[https://flutter.dev/](https://flutter.dev/)">\<img src="[https://skillicons.dev/icons?i=flutter](https://skillicons.dev/icons?i=flutter)" height="42" alt="Flutter"/>\</a>\
-\<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)">\<img src="[https://skillicons.dev/icons?i=javascript](https://skillicons.dev/icons?i=javascript)" height="42" alt="JavaScript"/>\</a>\
-\<a href="[https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)">\<img src="[https://skillicons.dev/icons?i=html](https://skillicons.dev/icons?i=html)" height="42" alt="HTML"/>\</a>\
-\<a href="[https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)">\<img src="[https://skillicons.dev/icons?i=css](https://skillicons.dev/icons?i=css)" height="42" alt="CSS"/>\</a>\
-\</p>
+<p>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="42" alt="React"/></a>
+<a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" height="42" alt="Flutter"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="42" alt="JavaScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS"/></a>
+</p>
 
 ### Backend & Databases
 
-\<p>\
-\<a href="[https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)">\<img src="[https://skillicons.dev/icons?i=spring](https://skillicons.dev/icons?i=spring)" height="42" alt="Spring Boot"/>\</a>\
-\<a href="[https://www.djangoproject.com/](https://www.djangoproject.com/)">\<img src="[https://skillicons.dev/icons?i=django](https://skillicons.dev/icons?i=django)" height="42" alt="Django"/>\</a>\
-\<a href="[https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)">\<img src="[https://skillicons.dev/icons?i=fastapi](https://skillicons.dev/icons?i=fastapi)" height="42" alt="FastAPI"/>\</a>\
-\<a href="[https://nodejs.org/](https://nodejs.org/)">\<img src="[https://skillicons.dev/icons?i=nodejs](https://skillicons.dev/icons?i=nodejs)" height="42" alt="Node.js"/>\</a>\
-\<a href="[https://www.postgresql.org/](https://www.postgresql.org/)">\<img src="[https://skillicons.dev/icons?i=postgres](https://skillicons.dev/icons?i=postgres)" height="42" alt="PostgreSQL"/>\</a>\
-\<a href="[https://www.mysql.com/](https://www.mysql.com/)">\<img src="[https://skillicons.dev/icons?i=mysql](https://skillicons.dev/icons?i=mysql)" height="42" alt="MySQL"/>\</a>\
-\<a href="[https://www.sqlite.org/](https://www.sqlite.org/)">\<img src="[https://skillicons.dev/icons?i=sqlite](https://skillicons.dev/icons?i=sqlite)" height="42" alt="SQLite"/>\</a>\
-\</p>
+<p>
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="42" alt="Spring Boot"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" height="42" alt="Django"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="42" alt="FastAPI"/></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js"/></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL"/></a>
+<a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" height="42" alt="SQLite"/></a>
+</p>
 
 ### Cloud, DevOps & Tooling
 
-\<p>\
-\<a href="[https://git-scm.com/](https://git-scm.com/)">\<img src="[https://skillicons.dev/icons?i=git](https://skillicons.dev/icons?i=git)" height="42" alt="Git"/>\</a>\
-\<a href="[https://github.com/](https://github.com/)">\<img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" height="42" alt="GitHub"/>\</a>\
-\<a href="[https://www.docker.com/](https://www.docker.com/)">\<img src="[https://skillicons.dev/icons?i=docker](https://skillicons.dev/icons?i=docker)" height="42" alt="Docker"/>\</a>\
-\<a href="[https://code.visualstudio.com/](https://code.visualstudio.com/)">\<img src="[https://skillicons.dev/icons?i=vscode](https://skillicons.dev/icons?i=vscode)" height="42" alt="Visual Studio Code"/>\</a>\
-\<a href="[https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)">\<img src="[https://skillicons.dev/icons?i=idea](https://skillicons.dev/icons?i=idea)" height="42" alt="IntelliJ IDEA"/>\</a>\
-\<a href="[https://www.postman.com/](https://www.postman.com/)">\<img src="[https://skillicons.dev/icons?i=postman](https://skillicons.dev/icons?i=postman)" height="42" alt="Postman"/>\</a>\
-\</p>
+<p>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="42" alt="Visual Studio Code"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" height="42" alt="IntelliJ IDEA"/></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman"/></a>
+</p>
 
 | Category    | Technologies                                                                 |
 | ----------- | ---------------------------------------------------------------------------- |
@@ -128,8 +124,8 @@ I'm interested in applying AI and machine learning to practical software enginee
 
 ### ReLoop — Mobile Food Marketplace
 
-\<details>\
-\<summary>\<strong>View project details\</strong>\</summary>
+<details>
+<summary><strong>View project details</strong></summary>
 
 **ReLoop** is a mobile marketplace concept for discounted food products, designed to connect users with more affordable food options while helping reduce food waste.
 
@@ -142,7 +138,7 @@ I'm interested in applying AI and machine learning to practical software enginee
 | Performance | Local persistence and structured application state management               |
 | Security    | Authentication, authorization, and role-based access control                |
 | Impact      | Supports discounted food discovery and marketplace workflows                |
-| Repository  | [Browse my GitHub repositories](https://github.com/Ray44i?tab=repositories) |
+| Repository  | Browse my GitHub repositories |
 
 **Key Features**
 
@@ -156,12 +152,12 @@ I'm interested in applying AI and machine learning to practical software enginee
 
 **Engineering Focus:** Mobile application architecture, local persistence, state management, and role-based application workflows.
 
-\</details>
+</details>
 
 ### DataNest — Structured Data Repository
 
-\<details>\
-\<summary>\<strong>View project details\</strong>\</summary>
+<details>
+<summary><strong>View project details</strong></summary>
 
 **DataNest** is a Django-based data repository platform for managing structured records, files, and datasets through a dynamic web application.
 
@@ -174,7 +170,7 @@ I'm interested in applying AI and machine learning to practical software enginee
 | Performance | Database indexing and query optimization                                    |
 | Security    | Role-based access control                                                   |
 | Impact      | Organizes dataset and record management in one application                  |
-| Repository  | [Browse my GitHub repositories](https://github.com/Ray44i?tab=repositories) |
+| Repository  | Browse my GitHub repositories |
 
 **Key Features**
 
@@ -188,12 +184,12 @@ I'm interested in applying AI and machine learning to practical software enginee
 
 **Engineering Focus:** Backend development, data modeling, access control, and efficient database queries.
 
-\</details>
+</details>
 
 ### Grocery Store — Full-Stack E-Commerce
 
-\<details>\
-\<summary>\<strong>View project details\</strong>\</summary>
+<details>
+<summary><strong>View project details</strong></summary>
 
 **Grocery Store** is a full-stack e-commerce application connecting a Spring Boot backend with a React frontend and PostgreSQL database.
 
@@ -206,7 +202,7 @@ I'm interested in applying AI and machine learning to practical software enginee
 | Performance | Relational persistence and structured API communication                           |
 | Security    | Backend application logic for managing application resources                      |
 | Impact      | Demonstrates full-stack integration across frontend, backend, and database layers |
-| Repository  | [Browse my GitHub repositories](https://github.com/Ray44i?tab=repositories)       |
+| Repository  | Browse my GitHub repositories       |
 
 **Key Features**
 
@@ -219,12 +215,12 @@ I'm interested in applying AI and machine learning to practical software enginee
 
 **Engineering Focus:** Java backend development, REST API design, database integration, and full-stack application workflows.
 
-\</details>
+</details>
 
 ### BreakIt — Security Testing & Verification
 
-\<details>\
-\<summary>\<strong>View project details\</strong>\</summary>
+<details>
+<summary><strong>View project details</strong></summary>
 
 **BreakIt** explores a repeatable software testing workflow designed to discover vulnerabilities, reproduce failures, verify fixes, and run regression tests against a controlled application.
 
@@ -237,7 +233,7 @@ I'm interested in applying AI and machine learning to practical software enginee
 | Performance | Repeatable automated local test execution                                   |
 | Security    | Authorization, duplicate checkout, race conditions, and validation          |
 | Impact      | Demonstrates evidence-based vulnerability testing and fix verification      |
-| Repository  | [Browse my GitHub repositories](https://github.com/Ray44i?tab=repositories) |
+| Repository  | Browse my GitHub repositories |
 
 **Key Features**
 
@@ -252,7 +248,7 @@ I'm interested in applying AI and machine learning to practical software enginee
 
 **Engineering Focus:** Backend reliability, security testing, reproducible bug reports, and regression verification.
 
-\</details>
+</details>
 
 ---
 
@@ -260,7 +256,7 @@ I'm interested in applying AI and machine learning to practical software enginee
 
 ### Backend Development & Software Testing
 
-**Collaborative Software Projects**\
+**Collaborative Software Projects**
 *2026 – Present*
 
 Contributing to team-based applications with a focus on backend workflows, API integration, testing, and software reliability.
@@ -277,7 +273,7 @@ Contributing to team-based applications with a focus on backend workflows, API i
 
 ### Computer Engineering Student
 
-**Istanbul Topkapi University**\
+**Istanbul Topkapi University**
 *Expected Graduation: 2027*
 
 Pursuing a B.Sc. in Computer Engineering with interests in backend systems, full-stack applications, mobile development, and applied AI.
@@ -309,85 +305,85 @@ No verified certifications are listed yet. This section can be updated when cert
 
 ### AWS
 
-\<a href="[https://aws.amazon.com/certification/](https://aws.amazon.com/certification/)">\<img src="[https://img.shields.io/badge/AWS-Certification_Path-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white](https://img.shields.io/badge/AWS-Certification_Path-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)" alt="AWS certification resources"/>\</a>
+<a href="https://aws.amazon.com/certification/"><img src="https://img.shields.io/badge/AWS-Certification_Path-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS certification resources"/></a>
 
 ### Oracle
 
-\<a href="[https://education.oracle.com/](https://education.oracle.com/)">\<img src="[https://img.shields.io/badge/Oracle-Certification_Path-F80000?style=for-the-badge&logo=oracle&logoColor=white](https://img.shields.io/badge/Oracle-Certification_Path-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)" alt="Oracle certification resources"/>\</a>
+<a href="https://education.oracle.com/"><img src="https://img.shields.io/badge/Oracle-Certification_Path-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle certification resources"/></a>
 
 ### NPTEL
 
-\<a href="[https://nptel.ac.in/](https://nptel.ac.in/)">\<img src="[https://img.shields.io/badge/NPTEL-Courses-4F46E5?style=for-the-badge](https://img.shields.io/badge/NPTEL-Courses-4F46E5?style=for-the-badge)" alt="NPTEL courses"/>\</a>
+<a href="https://nptel.ac.in/"><img src="https://img.shields.io/badge/NPTEL-Courses-4F46E5?style=for-the-badge" alt="NPTEL courses"/></a>
 
 ### Cisco
 
-\<a href="[https://www.netacad.com/](https://www.netacad.com/)">\<img src="[https://img.shields.io/badge/Cisco-Learning-049FD9?style=for-the-badge&logo=cisco&logoColor=white](https://img.shields.io/badge/Cisco-Learning-049FD9?style=for-the-badge\&logo=cisco\&logoColor=white)" alt="Cisco learning resources"/>\</a>
+<a href="https://www.netacad.com/"><img src="https://img.shields.io/badge/Cisco-Learning-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco learning resources"/></a>
 
 ---
 
 ## Coding Profiles
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://leetcode.com/](https://leetcode.com/)">\<img src="[https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)" alt="LeetCode"/>\</a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
-\<a href="[https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)">\<img src="[https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white](https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge\&logo=geeksforgeeks\&logoColor=white)" alt="GeeksforGeeks"/>\</a>
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 
-\<a href="[https://www.hackerrank.com/](https://www.hackerrank.com/)">\<img src="[https://img.shields.io/badge/HackerRank-Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black](https://img.shields.io/badge/HackerRank-Coding-00EA64?style=for-the-badge\&logo=hackerrank\&logoColor=black)" alt="HackerRank"/>\</a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
 
-\<a href="[https://www.codechef.com/](https://www.codechef.com/)">\<img src="[https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white](https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)" alt="CodeChef"/>\</a>
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
 
-\</div>
+</div>
 
 ---
 
 ## GitHub Analytics
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://github.com/Ray44i](https://github.com/Ray44i)">\
-\<img height="180" src="[https://github-readme-stats.vercel.app/api?username=Ray44i&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Ray44i\&show_icons=true\&hide_border=true\&bg_color=0D1117\&title_color=A78BFA\&icon_color=818CF8\&text_color=C9D1D9\&ring_color=8B5CF6\&include_all_commits=true)" alt="GitHub statistics"/>\
-\</a>
+<a href="https://github.com/Ray44i">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ray44i&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true" alt="GitHub statistics"/>
+</a>
 
-\<a href="[https://github.com/Ray44i](https://github.com/Ray44i)">\
-\<img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Ray44i&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=Ray44i\&layout=compact\&hide_border=true\&bg_color=0D1117\&title_color=A78BFA\&text_color=C9D1D9\&langs_count=8)" alt="Most used languages"/>\
-\</a>
+<a href="https://github.com/Ray44i">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray44i&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+</a>
 
-\<a href="[https://github.com/Ray44i](https://github.com/Ray44i)">\
-\<img height="180" src="[https://streak-stats.demolab.com?user=Ray44i&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E](https://streak-stats.demolab.com?user=Ray44i\&theme=transparent\&hide_border=true\&background=0D1117\&ring=8B5CF6\&fire=A78BFA\&currStreakLabel=A78BFA\&sideLabels=C9D1D9\&dates=8B949E)" alt="GitHub contribution streak"/>\
-\</a>
+<a href="https://github.com/Ray44i">
+<img height="180" src="https://streak-stats.demolab.com?user=Ray44i&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+</a>
 
-\</div>
+</div>
 
 ---
 
 ## GitHub Trophies
 
-\<div align="center">
+<div align="center">
 
-\<img width="100%" src="[https://github-profile-trophy.vercel.app/?username=Ray44i&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4](https://github-profile-trophy.vercel.app/?username=Ray44i\&theme=discord\&no-frame=true\&no-bg=true\&margin-w=8\&column=4)" alt="GitHub profile trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Ray44i&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies"/>
 
-\</div>
+</div>
 
 ---
 
 ## Contribution Activity
 
-\<div align="center">
+<div align="center">
 
-\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=Ray44i&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity](https://github-readme-activity-graph.vercel.app/graph?username=Ray44i\&bg_color=0D1117\&color=A78BFA\&line=7C3AED\&point=C4B5FD\&area=true\&area_color=312E81\&hide_border=true\&custom_title=Contribution%20Activity)" alt="GitHub contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ray44i&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
 
-\</div>
+</div>
 
 ---
 
 ## Contribution Snake
 
-\<div align="center">
+<div align="center">
 
-\<img width="100%" src="[https://raw.githubusercontent.com/Ray44i/Ray44i/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Ray44i/Ray44i/output/github-contribution-grid-snake-dark.svg)" alt="GitHub contribution snake animation"/>
+<img width="100%" src="https://raw.githubusercontent.com/Ray44i/Ray44i/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
-\</div>
+</div>
 
 ---
 
@@ -431,15 +427,15 @@ open_to:
 
 ## Connect
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://ray44i.github.io/](https://ray44i.github.io/)">\<img src="[https://img.shields.io/badge/Portfolio-Explore_My_Work-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white](https://img.shields.io/badge/Portfolio-Explore_My_Work-6D28D9?style=for-the-badge\&logo=githubpages\&logoColor=white)" alt="Portfolio"/>\</a>
+<a href="https://ray44i.github.io/"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 
-\<a href="[https://www.linkedin.com/in/rabi-madrk](https://www.linkedin.com/in/rabi-madrk)">\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>\</a>
+<a href="https://www.linkedin.com/in/rabi-madrk"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-\<a href="[https://github.com/Ray44i](https://github.com/Ray44i)">\<img src="[https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>\</a>
+<a href="https://github.com/Ray44i"><img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-\</div>
+</div>
 
 I'm interested in connecting with developers, software engineers, and teams building practical applications, reliable backend systems, and useful AI-powered products.
 
@@ -447,12 +443,12 @@ I'm interested in connecting with developers, software engineers, and teams buil
 
 ## Engineering Philosophy
 
-\<div align="center">
+<div align="center">
 
 *Build with purpose. Write maintainable code. Test what matters. Improve continuously.*
 
-\<a href="[https://capsule-render.vercel.app/](https://capsule-render.vercel.app/)">\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,35:6D28D9,70:312E81,100:0D1117&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:4F46E5,35:6D28D9,70:312E81,100:0D1117\&height=120\&section=footer)" alt="Purple gradient footer"/>\</a>
+<a href="https://capsule-render.vercel.app/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,35:6D28D9,70:312E81,100:0D1117&height=120&section=footer" alt="Purple gradient footer"/></a>
 
-\</div>
+</div>
 
 Correct my name and profile linksMake the profile more backend-focused
