@@ -1,14 +1,13 @@
-<div align="center">
+ <div align="center">
 
-<a href="https://capsule-render.vercel.app/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B120E,30:173D2B,65:2E6B45,100:3F8058&height=210&section=header&text=Rabea%20Madrk&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=BACKEND%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20AI%2FML&descAlignY=58&descSize=14" alt="Rabea Madrk — Backend and Software Engineering"/></a>
+<a href="https://capsule-render.vercel.app/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B120E,35:173D2B,70:2E6B45,100:5B8C5A&height=200&section=header&text=Rabea%20Madrk&fontSize=44&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=BACKEND%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=58&descSize=14" alt="Rabea Madrk — Backend Engineering"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=B7D9A8&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Backend+%26+Software+Engineering;Building+APIs+and+Database-Driven+Systems;Software+Testing+%26+Security;AI%2FML-Enabled+Software+Products" alt="Introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=B7D9A8&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Backend+%26+Software+Engineering;APIs+%7C+Databases+%7C+Software+Testing;AI%2FML+as+a+Secondary+Interest" alt="Introduction"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.topkapi.edu.tr/"><img src="https://img.shields.io/badge/COMPUTER_ENGINEERING-Istanbul_Topkapi_University-2E6B45?style=for-the-badge&logo=academia&logoColor=white" alt="Istanbul Topkapi University"/></a>
 <img src="https://img.shields.io/badge/GRADUATION-2027-3F8058?style=for-the-badge" alt="Graduation 2027"/>
-<img src="https://img.shields.io/badge/FOCUS-Backend_Engineering-173D2B?style=for-the-badge" alt="Backend engineering focus"/>
 
 <br/><br/>
 
@@ -20,7 +19,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Ray44i&style=flat-square&color=2E6B45&label=PROFILE+VIEWS" alt="Profile views"/>
 <a href="https://github.com/Ray44i?tab=followers"><img src="https://img.shields.io/github/followers/Ray44i?style=flat-square&color=3F8058&label=FOLLOWERS" alt="GitHub followers"/></a>
-<a href="https://github.com/Ray44i?tab=repositories"><img src="https://img.shields.io/github/stars/Ray44i?style=flat-square&color=4C956C&label=STARS" alt="GitHub stars"/></a>
 
 </div>
 
@@ -28,39 +26,64 @@
 
 ## About Me
 
-I'm a **Computer Engineering student at Istanbul Topkapi University**, expected to graduate in 2027, with a primary focus on **backend development and software engineering**.
+I'm a **Computer Engineering student at Istanbul Topkapi University**, expected to graduate in 2027, focused on **backend development and software engineering**.
 
-I build practical applications with an emphasis on API design, authentication and authorization, database design, application logic, and maintainable architecture. My project experience includes backend services, relational databases, full-stack applications, mobile development, and automated software testing.
+I build database-driven applications and backend functionality with an emphasis on API design, authentication and authorization, data modeling, maintainable architecture, and software testing. My project work spans backend services, full-stack applications, and mobile development.
 
-I approach software engineering with a focus on more than making features work: understanding system behavior, handling edge cases, validating security boundaries, and verifying fixes through repeatable tests.
-
-I'm also interested in **AI/ML-enabled software products**, particularly the architecture behind intelligent applications, personalization, and ranking systems.
+I'm also interested in **AI/ML-enabled software products**, especially how intelligent capabilities can be integrated into useful, reliable applications.
 
 <div align="center">
 
-| BACKEND ENGINEERING | SOFTWARE RELIABILITY | INTELLIGENT SYSTEMS |
+| BACKEND SYSTEMS | SOFTWARE RELIABILITY | AI-ENABLED PRODUCTS |
 |:---:|:---:|:---:|
-| APIs · Databases · Auth | Testing · Security · Debugging | AI/ML · Personalization · Ranking |
+| APIs · Databases · Access Control | Testing · Security · Debugging | AI/ML · Personalization · Ranking |
 
 </div>
-
----
 
 ## Backend Engineering
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| AREA | ENGINEERING FOCUS |
-|:---|:---|
-| API Development | RESTful endpoints, request handling, CRUD operations, and service integration |
-| Authentication & Authorization | Access control, role-based workflows, and permission boundaries |
-| Database Engineering | Relational modeling, SQL, persistence, indexing, and query optimization |
-| Application Architecture | Separation of responsibilities, reusable components, and maintainable code |
-| Software Testing | Automated tests, regression testing, edge cases, and reproducible failures |
-| Security & Reliability | Authorization checks, validation, duplicate operations, and race-condition scenarios |
-| System Integration | Connecting frontend applications, backend services, and data layers |
+### API Development
+- RESTful API design
+- Request validation and CRUD
+- Frontend/backend integration
+- Authentication and authorization
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### Database Engineering
+- Relational data modeling
+- SQL and data persistence
+- Database indexing
+- Query optimization
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Software Quality
+- Automated testing
+- Regression verification
+- Edge-case investigation
+- Reproducible bug reports
+
+</td>
+<td width="50%" valign="top">
+
+### Application Architecture
+- Separation of responsibilities
+- Maintainable application logic
+- Role-based workflows
+- Reliable service integration
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,18 +100,13 @@ I'm also interested in **AI/ML-enabled software products**, particularly the arc
 <a href="https://www.iso.org/standard/74528.html"><img src="https://skillicons.dev/icons?i=c" height="42" alt="C"/></a>
 </p>
 
-### Backend & Frameworks
+### Backend & Databases
 
 <p>
 <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" height="42" alt="Django"/></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="42" alt="FastAPI"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="42" alt="Spring Boot"/></a>
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js"/></a>
-</p>
-
-### Databases
-
-<p>
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL"/></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL"/></a>
 <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" height="42" alt="SQLite"/></a>
@@ -116,103 +134,66 @@ I'm also interested in **AI/ML-enabled software products**, particularly the arc
 
 ---
 
-## Architecture & AI-Enabled Systems
-
-My interests extend from backend implementation to the architecture of intelligent software products.
-
-Areas connected to this focus include:
-
-- **Local context and cloud-side processing:** separating user-specific context from broader candidate generation.
-- **Personalization and ranking:** organizing candidate results according to relevant user context and system logic.
-- **System boundaries:** keeping responsibilities distinct across application logic, data handling, and supporting services.
-- **Reliable integration:** treating intelligent features as part of a complete software system, supported by structured data, clear interfaces, and testable behavior.
-
-I see AI/ML as a complement to strong software engineering: intelligent features still need reliable backend systems, clear architecture, and predictable application behavior.
-
----
-
 ## Featured Projects
 
-### 01. BreakIt — Security Testing & Verification
+<details open>
+<summary><strong>01 · BreakIt — Security Testing & Verification</strong></summary>
 
-<details>
-<summary><strong>View project details</strong></summary>
+A repeatable testing workflow for discovering vulnerabilities, reproducing failures, verifying fixes, and checking for regressions.
 
-BreakIt explores a repeatable workflow for finding software weaknesses, reproducing failures, verifying fixes, and running regression tests.
+**Stack:** Python · FastAPI · SQLite · Pytest
 
-**Technologies:** Python · FastAPI · SQLite · Pytest
+- Built a controlled API target for security testing.
+- Investigated last-item purchase race conditions.
+- Tested order authorization and duplicate checkout scenarios.
+- Added automated security regression tests and documented evidence.
+- **Recorded result:** 12 tests passed, with one warning in a local run.
 
-**Engineering highlights**
-
-- Built a controlled API application as a security-testing target.
-- Investigated race conditions during last-item purchases.
-- Tested order authorization boundaries.
-- Examined duplicate checkout behavior and input validation.
-- Added automated security regression tests.
-- Documented evidence for a security finding.
-
-**Recorded test result:** 12 tests passed, with one warning in a local run.
-
-**Focus:** Backend reliability, security testing, reproducible defects, and verification.
+**Focus:** Backend security, reliability, and evidence-based verification.
 
 </details>
 
-### 02. DataNest — Structured Data Repository
-
 <details>
-<summary><strong>View project details</strong></summary>
+<summary><strong>02 · DataNest — Structured Data Repository</strong></summary>
 
-DataNest is a Django-based application for managing datasets, structured records, and uploaded files.
+A Django application for managing datasets, structured records, and uploaded files.
 
-**Technologies:** Python · Django · SQLite
+**Stack:** Python · Django · SQLite
 
-**Engineering highlights**
-
-- Implemented 10+ API endpoints.
-- Structured access around three user roles.
+- Implemented 10+ API endpoints and three user roles.
 - Built dataset and record management workflows.
-- Added search, export, and file-upload functionality.
+- Added search, export, and file uploads.
 - Used Django Signals for activity logging.
 - Applied database indexing and query optimization.
 
-**Focus:** Backend development, data modeling, access control, and database performance.
+**Focus:** API development, data modeling, access control, and query performance.
 
 </details>
 
-### 03. Grocery Store — Full-Stack E-Commerce
-
 <details>
-<summary><strong>View project details</strong></summary>
+<summary><strong>03 · Grocery Store — Full-Stack E-Commerce</strong></summary>
 
-A full-stack e-commerce application connecting a Spring Boot backend with a React frontend and PostgreSQL database.
+A full-stack e-commerce application connecting a Spring Boot backend, React frontend, and PostgreSQL database.
 
-**Technologies:** Java · Spring Boot · React · PostgreSQL
+**Stack:** Java · Spring Boot · React · PostgreSQL
 
-**Engineering highlights**
+- Developed REST APIs for product management.
+- Implemented customer and order workflows.
+- Built CRUD operations and relational persistence.
+- Connected frontend and backend using JSON-based communication.
 
-- Developed RESTful APIs for product management.
-- Implemented customer and order management workflows.
-- Built CRUD operations.
-- Integrated relational database persistence.
-- Connected frontend and backend through JSON-based communication.
-
-**Focus:** Java backend development, API design, database integration, and application-layer communication.
+**Focus:** Java backend development, API integration, and database-backed application logic.
 
 </details>
 
-### 04. ReLoop — Mobile Food Marketplace
-
 <details>
-<summary><strong>View project details</strong></summary>
+<summary><strong>04 · ReLoop — Mobile Food Marketplace</strong></summary>
 
-ReLoop is a mobile marketplace concept for discounted food products, designed to connect users with affordable options while helping reduce food waste.
+A mobile marketplace concept for discounted food products, supporting more affordable food discovery and reduced food waste.
 
-**Technologies:** Flutter · Dart · SQLite · Provider
+**Stack:** Flutter · Dart · SQLite · Provider
 
-**Engineering highlights**
-
-- Built more than 20 application screens.
-- Designed a local database with 6+ tables.
+- Built 20+ application screens and a database with 6+ tables.
 - Implemented three user roles and role-based access control.
 - Developed authentication and authorization workflows.
 - Included order and payment flows, maps, and favorites.
@@ -224,46 +205,40 @@ ReLoop is a mobile marketplace concept for discounted food products, designed to
 
 ---
 
-## Collaborative Engineering Experience
+## Collaborative Engineering
 
 ### Backend Development & Software Testing
-*Collaborative Software Projects · 2026–Present*
 
-Contributing to team-based software projects with a focus on backend functionality, integration, test coverage, and reliability.
+Contributing to team-based applications with a focus on backend functionality, integration, and reliability.
 
-- Implement and validate backend workflows.
-- Work with APIs, relational databases, and application logic.
-- Test authentication and authorization behavior.
-- Investigate defects and verify fixes through repeatable tests.
-- Maintain technical documentation and test evidence.
-- Collaborate through Git, branches, commits, and pull-request workflows.
-- Coordinate integration work and communicate technical blockers.
+- Validate backend workflows and API behavior.
+- Test authentication, authorization, and database operations.
+- Investigate defects and verify fixes with repeatable tests.
+- Maintain test reports and technical evidence.
+- Collaborate through Git, branches, commits, and team integration workflows.
 
 ### Backend Testing & Payment Workflows
 
-In a collaborative application project, my responsibilities include backend validation and payment-related testing.
+Backend validation and payment-related testing within a collaborative application project.
 
 - Validate backend configuration and API reachability.
 - Test authentication, authorization, and database behavior.
-- Investigate subscription lifecycle and entitlement synchronization scenarios.
-- Document test results and distinguish locally simulated behavior from externally verified results.
-- Track dependencies that require an available sandbox, test device, or external service configuration.
-
-**Focus:** Backend validation, payment workflow testing, integration reliability, and evidence-based reporting.
+- Investigate subscription lifecycle and entitlement synchronization.
+- Distinguish locally simulated results from externally verified outcomes.
+- Document blockers requiring a configured sandbox or external test environment.
 
 ---
 
-## Selected Engineering Work
+## Architecture & AI-Enabled Systems
 
-| Area | Demonstrated work |
-|:---|:---|
-| API Engineering | Built and tested REST endpoints across backend projects |
-| Data Management | Structured relational databases and optimized queries |
-| Access Control | Implemented role-based workflows and tested authorization boundaries |
-| Software Testing | Wrote automated tests and verified fixes against regression scenarios |
-| Application Integration | Connected frontend, backend, and database layers |
-| System Architecture | Worked with application boundaries, user context, and personalization/ranking concepts |
-| Team Collaboration | Maintained branches, commits, technical reports, and integration communication |
+Alongside backend engineering, I'm interested in the architecture of intelligent software products.
+
+- **Context and candidate generation:** separating user-specific context from broader candidate-generation processes.
+- **Personalization and ranking:** organizing results around relevant context and application requirements.
+- **System boundaries:** separating responsibilities across data, application logic, and services.
+- **Reliable integration:** designing intelligent features to work within testable, maintainable software systems.
+
+My focus is on combining useful intelligent capabilities with strong backend foundations and reliable application behavior.
 
 ---
 
@@ -272,15 +247,15 @@ In a collaborative application project, my responsibilities include backend vali
 <div align="center">
 
 <a href="https://github.com/Ray44i">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ray44i&show_icons=true&hide_border=true&bg_color=0B120E&title_color=B7D9A8&icon_color=8FBF83&text_color=C9D1D9&ring_color=6FA77B&include_all_commits=true" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Ray44i&show_icons=true&hide_border=true&bg_color=0B120E&title_color=B7D9A8&icon_color=8FBF83&text_color=C9D1D9&ring_color=6FA77B&include_all_commits=true" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/Ray44i">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray44i&layout=compact&hide_border=true&bg_color=0B120E&title_color=B7D9A8&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray44i&layout=compact&hide_border=true&bg_color=0B120E&title_color=B7D9A8&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
 </a>
 
 <a href="https://github.com/Ray44i">
-<img height="180" src="https://streak-stats.demolab.com?user=Ray44i&theme=transparent&hide_border=true&background=0B120E&ring=6FA77B&fire=B7D9A8&currStreakLabel=B7D9A8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+<img height="175" src="https://streak-stats.demolab.com?user=Ray44i&theme=transparent&hide_border=true&background=0B120E&ring=6FA77B&fire=B7D9A8&currStreakLabel=B7D9A8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
 </a>
 
 </div>
@@ -297,18 +272,36 @@ profile:
   secondary_interest: "AI/ML-enabled software"
 
 engineering:
-  - RESTful API design and backend services
+  - RESTful API design
   - Database-driven applications
   - Authentication and authorization
   - Relational data modeling and query optimization
-  - Automated testing and regression verification
-  - Security boundaries and backend reliability
+  - Automated and regression testing
+  - Security validation and backend reliability
   - Maintainable application architecture
 
-system_design:
-  - Clear API and service boundaries
-  - Structured data and persistence
-  - Local user context and cloud-side candidate generation
-  - Personalization and ranking concepts
-  - Integration between application components
-  - Testable and reliable software workflows
+systems:
+  - Clear service boundaries
+  - Reliable application integration
+  - Context-aware personalization concepts
+  - Candidate generation and ranking concepts
+  - Testable software workflows
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://ray44i.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore_My_Work-2E6B45?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/rabi-madrk"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Ray44i"><img src="https://img.shields.io/badge/GITHUB-View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+*Build with purpose. Design clear systems. Test what matters. Improve continuously.*
+
+<a href="https://capsule-render.vercel.app/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8C5A,35:2E6B45,70:173D2B,100:0B120E&height=110&section=footer" alt="Forest green footer"/></a>
+
+</div>
