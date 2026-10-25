@@ -1,72 +1,86 @@
 <div align="center">
-
-# Rabii Sen
-
-### Mobile & Backend Developer · Computer Engineering Student
-
-I like building useful software from the inside out: clear interfaces, dependable APIs, and data that stays organized.
-
-[Portfolio](https://ray44i.github.io) · [LinkedIn](https://www.linkedin.com/in/rabi-madrk) · Istanbul, Türkiye
-
+  <img src="https://raw.githubusercontent.com/Ray44i/Ray44i/main/assets/profile-header.svg" alt="Rabii Sen — Mobile, Backend & Systems" width="100%" />
+  <br/><br/>
+  <a href="https://ray44i.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-0B1D33?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rabi-madrk"><img src="https://img.shields.io/badge/LINKEDIN-0B1D33?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn" /></a>
+  <a href="https://github.com/Ray44i"><img src="https://img.shields.io/badge/GITHUB-0B1D33?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub" /></a>
 </div>
 
 ---
 
-## A little about me
+<h2 align="center">A little about me</h2>
 
-I’m a computer engineering student at Istanbul Topkapi University, graduating in 2027. Most of my work lives where mobile apps meet backend systems: Flutter on the app side, and Python/Django or Java/Spring Boot behind it.
+<p align="center">
+  Computer Engineering student at Istanbul Topkapi University, graduating in 2027.<br/>
+  I build mobile and backend software, and enjoy making the pieces work well together.
+</p>
 
-I enjoy taking a product idea and working through the details that make it usable: authentication, role-based workflows, database design, API integration, and the small edge cases that are easy to miss. I’m also curious about AI-enabled products and how to make their features fit into reliable software.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>What I enjoy building</h3>
+      <p>Useful apps with clear flows, thoughtful data models, and backend logic that holds up beyond the happy path.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>What I care about</h3>
+      <p>Good API design, dependable authentication, maintainable architecture, and testing the edge cases that matter.</p>
+    </td>
+  </tr>
+</table>
 
-## What I build with
-
-| Area | Tools |
-| --- | --- |
-| Mobile | Flutter, Dart, Provider |
-| Backend | Python, Django, Java, Spring Boot, REST APIs |
-| Frontend | React, JavaScript, HTML, CSS |
-| Data | PostgreSQL, SQLite, MySQL, SQL Server |
-| Workflow | Git, GitHub, Postman, VS Code, Android Studio, IntelliJ IDEA |
-
-## Selected projects
-
-### [ParkLift](https://github.com/Ray44i/ParkLift) · Smart parking simulation
-
-A Flutter simulation for a multi-level parking elevator, with live slot tracking, vehicle queues, and a history dashboard. Built around offline use and local persistence.
-
-`Flutter` `Dart` `Provider` `SQLite`
-
-### [ReLoop](https://github.com/Ray44i/ReLoop) · Food rescue marketplace
-
-A mobile marketplace concept connecting food donors with recipients. The app includes role-based flows, listings, pickup scheduling, maps, and favorites.
-
-`Flutter` `Dart` `SQLite`
-
-### [DataNest](https://github.com/Ray44i/DataNest) · Structured data platform
-
-A Django app for managing datasets, records, and uploaded files, with role-based access, search, export, and activity logging.
-
-`Python` `Django` `SQLite`
-
-### [BreakIt](https://github.com/Ray44i/BreakIt) · API security testing
-
-A small, repeatable security testing project exploring API edge cases such as checkout races, authorization, and duplicate requests, with regression tests to document behavior.
-
-`Python` `FastAPI` `SQLite` `Pytest`
-
-## Currently learning and exploring
-
-- Building backend features that are easier to test and maintain
-- Relational data modeling, access control, and API design
-- How AI and personalization features can fit into practical products
-
-## Find me
-
-- Portfolio: [ray44i.github.io](https://ray44i.github.io)
-- LinkedIn: [rabi-madrk](https://www.linkedin.com/in/rabi-madrk)
+<h2 align="center">Tools I work with</h2>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Flutter-176B87?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-176B87?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-176B87?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-176B87?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Java-176B87?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-176B87?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-176B87?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-176B87?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-176B87?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-176B87?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
-*Build something useful. Make the details work. Keep learning.*
+<h2 align="center">A few things I’ve built</h2>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ray44i/ParkLift">01 / ParkLift</a></h3>
+      <p><strong>Smart parking, reimagined.</strong><br/>A Flutter simulation with live parking availability, vehicle queues, and a history view. Designed to work offline.</p>
+      <sub>FLUTTER · PROVIDER · SQLITE</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ray44i/ReLoop">02 / ReLoop</a></h3>
+      <p><strong>Good food, finding a next stop.</strong><br/>A food rescue marketplace concept with donor and recipient flows, pickup scheduling, maps, and favorites.</p>
+      <sub>FLUTTER · DART · SQLITE</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ray44i/DataNest">03 / DataNest</a></h3>
+      <p><strong>Structured data, made manageable.</strong><br/>A Django platform for datasets, records, and files, with role-based access, search, export, and activity logging.</p>
+      <sub>PYTHON · DJANGO · SQLITE</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ray44i/BreakIt">04 / BreakIt</a></h3>
+      <p><strong>Find the edge cases before users do.</strong><br/>A repeatable API security testing project covering authorization, duplicate checkout, and race condition scenarios.</p>
+      <sub>PYTHON · FASTAPI · PYTEST</sub>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">Where I’m headed</h2>
+
+<p align="center">
+  Growing as a mobile and backend engineer · Exploring reliable AI-enabled products<br/>
+  <strong>Build something useful. Make the details work. Keep learning.</strong>
+</p>
+
+<div align="center">
+  <a href="https://ray44i.github.io">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/rabi-madrk">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Ray44i">GitHub</a>
 </div>
